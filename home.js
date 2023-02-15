@@ -71,26 +71,26 @@ textarea.addEventListener("keyup", (e) => {
 buttonsu.addEventListener("click" , () => {
     if(varify.hn && varify.hy) {
         console.log("hello world ")
-        // var formation = {
-        //     email : input.value ,
-        //     message : textarea.value 
-        // }
-        // const servid = () => {
-        //     return "service_qnwu19q"
-        // }
-        // const templeid = () => {
-        //     return "template_5tejakh"
-        // }
-        // emailjs.send(servid(),templeid(),formation)
-        // .then(
-        //     res => {
-        //         textarea.value =  " " ,
-        //         input.value  = " ",
-        //         console.log("every thing went wright")
-        //     }
-        // ).catch(err => {
-        //     console.log(err) ;
-        // })
+        var formation = {
+            email : input.value ,
+            message : textarea.value 
+        }
+        const servid = () => {
+            return "service_qnwu19q"
+        }
+        const templeid = () => {
+            return "template_5tejakh"
+        }
+        emailjs.send(servid(),templeid(),formation)
+        .then(
+            res => {
+                textarea.value =  " " ,
+                input.value  = " ",
+                console.log("every thing went wright")
+            }
+        ).catch(err => {
+            console.log(err) ;
+        })
     }
     })
     
