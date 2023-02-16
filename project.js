@@ -13,13 +13,13 @@ let make = [
     {
         name : "notes project" ,
         text : "This project helped me a lot to discover something deep in javascript, I mean it's not as simple as it looks " ,
-        urlf : "https://github.com/yanetou/notes.git" ,
+        urlf : "https://yanetou.github.io/notes/" ,
         img : `img/notesapp.jpg`
     },
     {
         name : "password" ,
         text : "get a random password" ,
-        urlf : "https://github.com/yanetou/lite-randome-password.git"  ,
+        urlf : "https://yanetou.github.io/lite-randome-password/"  ,
         img : `img/password.jpg`
     },
     {
