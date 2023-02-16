@@ -94,10 +94,10 @@ newprject(10,14,14,0,make[1].img,make[1].name,1)
 newprject(10,12,16,16,make[2].img,make[2].name,2)
 newprject(10,10,-8,32,make[3].img,make[3].name,3)
 newprject(10,18,-15,2,make[4].img,make[4].name,4)
-newprject(18,24,-30,20,make[5].img,make[5].name,5)
-newprject(20,10,-34,5,make[6].img,make[6].name,6)
-newprject(19,25,35,0.5,make[7].img,make[7].name,7)
-newprject(10,10,30,30,make[8].img,make[8].name,8) ;
+newprject(18,16,-28,20,make[5].img,make[5].name,5)
+newprject(20,10,-30,5,make[6].img,make[6].name,6)
+newprject(19,18,35,0.5,make[7].img,make[7].name,7)
+newprject(10,10,30,20,make[8].img,make[8].name,8) ;
 
 
 
