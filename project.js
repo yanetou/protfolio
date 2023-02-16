@@ -89,9 +89,9 @@ box.style.cssText = `transform : none ; width : 100% ; height : 14vh ; position:
             
 
         }
-newprject(15,20,0,10,make[0].img,make[0].name,0)
+newprject(15,20,0,4,make[0].img,make[0].name,0)
 newprject(10,14,14,0,make[1].img,make[1].name,1)
-newprject(10,12,16,20,make[2].img,make[2].name,2)
+newprject(10,12,16,16,make[2].img,make[2].name,2)
 newprject(10,10,-8,32,make[3].img,make[3].name,3)
 newprject(10,18,-15,2,make[4].img,make[4].name,4)
 newprject(18,24,-30,20,make[5].img,make[5].name,5)
